@@ -15,7 +15,7 @@ Built with **Next.js** and **Tailwind CSS**, the goal was to replicate the given
 
 ## 🔗 Solution
 
-[View Solution Repository]() 
+[View Solution Repository](https://www.frontendmentor.io/solutions/browser-extension-manager-ui-96ykz28Wy3) 
 
 ## 🚀 Live Demo
 
