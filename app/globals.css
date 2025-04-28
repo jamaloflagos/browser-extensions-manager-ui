@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-neutral-900: #091540;
+  --color-neutral-800: #202535;
+  --color-neutral-700: #2F364B;
+  --color-neutral-600: #535868;
+  --color-neutral-300: #C6C6C6;
+  --color-neutral-200: #D6E2F5;
+  --color-neutral-100: #EEEEEE;
+  --color-neutral-0: #FBFDFE;
+  --color-red-700: #C7231A;
+  --color-red-400: #DE4840;
+  --color-red-400: #F25C54;
+  --color-light-gradient: linear-gradient(180deg, #EBF2FC 0%, #EEFBF9 100%);
+  --color-dark-gradient: linear-gradient(180deg, #04091B 0%, #091540 100%);
+}
