@@ -54,11 +54,3 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
----
-
-## Acknowledgments
-
-- Challenge inspired by real-world product interface designs.
-- Thanks to the designers who provided the initial UI reference.
-
